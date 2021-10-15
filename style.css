@@ -1,0 +1,23 @@
+.container {
+    /*background-color: #0c1927;*/
+}
+
+.title-main {
+    color: red;
+}
+
+.card {
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.mail {
+    cursor: pointer;
+    color: #3a528f;
+}
+
+.btn {
+    width: 25%;
+    margin: 0 auto;
+}
